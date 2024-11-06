@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hello-logging-log4j2
+  main:
+    banner-mode: off
+server:
+  port: 9090
